@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ahmed Serag
+- 👀 I’m interested in Mobile App Development
+- 🌱 I’m currently working on mastering Flutter App Development
+- 📫 How to reach me aseragmw@gmail.com
+- 💬 Find me on LinkedIn aseragmw@gmail.com
