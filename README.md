@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ahmed Serag
+- 👨‍💻 Hi, I’m Ahmed Serag, Currently working as a freelance Flutter Developer
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently working on mastering Flutter App Development
+- 🌱 I’m currently learning to mastering Flutter App Development
 - 📫 How to reach me aseragmw@gmail.com
 - 💬 Find me on LinkedIn aseragmw@gmail.com
